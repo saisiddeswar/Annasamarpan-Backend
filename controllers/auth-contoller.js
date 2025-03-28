@@ -1,6 +1,6 @@
 // Import necessary modules
 const User = require("../models/usermodel"); // User model for database interaction
-const bcrypt = require('bcrypt'); // Library for hashing passwords
+const bcrypt = require('bcryptjs'); // Library for hashing passwords
 const jwt = require('jsonwebtoken'); // Library for creating JSON Web Tokens
 
 // Home Route
