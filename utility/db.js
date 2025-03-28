@@ -1,5 +1,5 @@
 const mongoose=require("mongoose");
-const uri="mongodb+srv://bsaisiddu05:<ANNAM>@annasamarpan.xwhl2a2.mongodb.net/?retryWrites=true&w=majority&appName=Annasamarpan";
+const uri = "mongodb+srv://siddeswar0605:siddeswar@cluster0.0lw2o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 // const uri="mongodb://localhost:27017"
 const connectDb=async()=>{
     try {
